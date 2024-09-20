@@ -12,6 +12,6 @@ thuhai={SHDC,Văn,Văn,Lý,Tin},{Toán,Toán,Lý,Lý}
 ```
 Trong ví dụ này cho biết các tiết ở **thứ Hai**:
 
-Sáng: SHDC, Văn, Văn, Tin *tương ứng với* ``{SHDC,Văn,Văn,Lý,Tin}``
++ Sáng: SHDC, Văn, Văn, Tin *tương ứng với* ``{SHDC,Văn,Văn,Lý,Tin}``
 
-Chiều: Toán, Toán, Lý, Lý *tương ứng với* ``{Toán,Toán,Lý,Lý}``
++ Chiều: Toán, Toán, Lý, Lý *tương ứng với* ``{Toán,Toán,Lý,Lý}``
