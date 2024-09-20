@@ -1,0 +1,6 @@
+thuhai={SHDC,Văn,Văn,Lý,Tin},{Toán,Toán,Lý,Lý}
+thuba={Tin,Sử,Toán,Toán},{GDĐP,GDQP}
+thutu={Anh,Anh,Sinh,Văn},{Anh,Anh,Toán,Toán}
+thunam={Hoá,Hoá,Sử,Sinh},{Lý,Lý,Anh,Anh}
+thusau={Hoá,Anh,Lý,Lý},{Nghỉ}
+thubay={Toán,Toán,Sinh Hoạt},{Thể dục,Thể dục,Hoá,Hoá}
