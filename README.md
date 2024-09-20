@@ -2,7 +2,7 @@
 
 Chạy file ``run.bat`` để chạy 
 
-## Làm sao để thay dổi thời khoá biểu?
+## Làm sao để thay đổi thời khoá biểu?
 - mở file ``TKB.txt``
 - thay đổi các môn của từng thứ với ``{}`` đầu là buổi sáng ``{}`` là buổi chiều
 
