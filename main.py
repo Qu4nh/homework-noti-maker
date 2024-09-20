@@ -3,6 +3,7 @@ from tkinter import messagebox
 from tkinter import ttk
 import os
 from datetime import datetime
+from datetime import timedelta
 
 def read_schedule(file_name):
     schedule = {}
@@ -140,7 +141,8 @@ class HomeworkApp:
 
     def update_date(self):
         today = datetime.now()
-        self.date_var.set(today.strftime("%d/%m"))
+        tomorrow = today + timedelta(days=1)
+        self.date_var.set(tomorrow.strftime("%d/%m"))
 
     def set_day(self, day):
         self.day_var.set(day)
